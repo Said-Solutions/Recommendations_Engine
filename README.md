@@ -5,7 +5,7 @@
 
 ## Setup Instructions
 
-1. Generate data:
+1. Generate data: (Files in data folder have to be deleted before this command or this step can be skipped)
     ```bash
     python generate_large_data.py
     ```
